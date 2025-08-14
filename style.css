@@ -1,0 +1,23 @@
+ body{
+                background-color:powderblue;
+                text-align:center;
+                
+            }
+            input{
+                border-radius:5px;
+                border-style:solid;
+                padding:5px;
+            }
+            button{
+                background-color:aquamarine;
+                border-radius :15px;
+                padding:5px;
+                margin:3px;
+                border-style:solid;
+                
+
+                
+            }
+            button:hover{
+                background-color:peachpuff;
+            }
